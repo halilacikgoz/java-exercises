@@ -9,7 +9,7 @@ public class Arrays {
 
         System.out.println("printArrayOfNumbers :: ");
         printArrayOfNumbers();
-        System.out.println("Halil was here");
+        System.out.println("Halil was here FOR ANOTHER PROJECT");
         System.out.println("arrayCreation :: ");
         arrayCreation();
 
